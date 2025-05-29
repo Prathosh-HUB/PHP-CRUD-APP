@@ -8,6 +8,7 @@
 
 </head>
 <h2 >Student List</h2>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Atque minima tenetur laudantium nihil. Illo vitae possimus odio sint tenetur aliquid!</p>
 
 <button class="btn add-btn" onclick="location.href='add.php'">+ Add Student</button><br>
 <br>
